@@ -6,7 +6,7 @@ Welcome to Savory Bytes, a flavorful project developed with React.js that brings
 
 This a frontend part of web application.
 
-##### Here's features included in this project
+## 🍽️ Features
 
 - Add to cart functionality
 - Shopping cart functionality
