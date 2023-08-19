@@ -1,8 +1,10 @@
-## Food Ordering Website
+# Savory Bytes - A Gourmet Delight
 
-### Features:
+![Savory Bytes](https://res.cloudinary.com/dd40wbf0z/image/upload/v1692420365/2_qqrzgw.png)
 
----
+Welcome to Savory Bytes, a flavorful project developed with React.js that brings you a delightful journey into the world of gastronomy! Tasty Treat is a platform where you can explore, share, and create mouthwatering recipes from around the globe.
+
+This a frontend part of web application.
 
 ##### Here's features included in this project
 
@@ -15,28 +17,54 @@
 - Login and Register page
 - Awesome modern minimalist UI
 
-### Technologies Used:
 
----
+## 🚀 Getting Started
 
-1. React.js
-2. Redux Toolkit
-3. ReactStrap
-4. CSS
+1. Clone this repository to your local machine:
 
-### How to start?
+   ```bash
+   git clone https://github.com/adi-igit/Savory-Bytes.git
+   ```
 
----
+2. Navigate to the project directory:
 
-##### To start the project along with me just download the start-up file and run available script
+   ```bash
+   cd Savory-Bytes
+   ```
 
-```javascript
-// first install all necessary dependencies
+3. Install project dependencies:
 
-npm i
+   ```bash
+   npm install
+   ```
 
-// next run
+4. Start the development server:
 
-npm start
+   ```bash
+   npm start
+   ```
 
-```
+5. Open your browser and visit [**http://localhost:3000**](http://localhost:3000) to embark on your culinary adventure with Savory Bytes!
+
+## 🍳 Technologies Used
+
+* **React.js**
+* **Redux Toolkit**
+* **ReactStrap**
+* **CSS**
+
+## 🍰 Contributing
+
+Contribute your own flavor to Tasty Treat and make it even more delectable! Here's how you can participate:
+
+* Open an [issue](https://github.com/adi-igit/Tasty-Treat/issues) to suggest ideas, report bugs, or propose enhancements.
+* Fork the repository and submit a pull request to add your enhancements to the mix.
+
+## 📜 License
+
+Savory Bytes is released under the [MIT](https://github.com/adi-igit/Tasty-Treat/blob/main/LICENSE) License. Get ready to whip up your contributions and add to the culinary magic!
+
+Savor the magic of Tasty Treat, a captivating React.js application. Explore, cook, and share your favorite recipes with fellow food enthusiasts from all over.
+
+Bon appétit! 🍽️🍰
+
