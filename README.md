@@ -1,6 +1,6 @@
 # Savory Bytes - A Gourmet Delight
 
-![Savory Bytes](https://res.cloudinary.com/dd40wbf0z/image/upload/v1692420365/2_qqrzgw.png)
+![Savory Bytes](https://res.cloudinary.com/dd40wbf0z/image/upload/v1692420927/2_exblv8.png)
 
 Welcome to Savory Bytes, a flavorful project developed with React.js that brings you a delightful journey into the world of gastronomy! Tasty Treat is a platform where you can explore, share, and create mouthwatering recipes from around the globe.
 
