@@ -6,7 +6,7 @@ Welcome to Savory Bytes, a flavorful project developed with React.js that brings
 
 This a frontend part of web application.
 
-## 🍽️ Features
+## Features
 
 - Add to cart functionality
 - Shopping cart functionality
@@ -18,7 +18,7 @@ This a frontend part of web application.
 - Awesome modern minimalist UI
 
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository to your local machine:
 
@@ -46,25 +46,25 @@ This a frontend part of web application.
 
 5. Open your browser and visit [**http://localhost:3000**](http://localhost:3000) to embark on your culinary adventure with Savory Bytes!
 
-## 🍳 Technologies Used
+## Technologies Used
 
 * **React.js**
 * **Redux Toolkit**
 * **ReactStrap**
 * **CSS**
 
-## 🍰 Contributing
+## Feedback and Contributions
 
 Contribute your own flavor to Tasty Treat and make it even more delectable! Here's how you can participate:
 
 * Open an [issue](https://github.com/adi-igit/Tasty-Treat/issues) to suggest ideas, report bugs, or propose enhancements.
 * Fork the repository and submit a pull request to add your enhancements to the mix.
 
-## 📜 License
+## License
 
 Savory Bytes is released under the [MIT](https://github.com/adi-igit/Tasty-Treat/blob/main/LICENSE) License. Get ready to whip up your contributions and add to the culinary magic!
 
 Savor the magic of Tasty Treat, a captivating React.js application. Explore, cook, and share your favorite recipes with fellow food enthusiasts from all over.
 
-Bon appétit! 🍽️🍰
+Bon appétit!
 
